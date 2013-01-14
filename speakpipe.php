@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: SpeakPipe
+Plugin Name: SpeakPipe - Voicemail for Websites
 Plugin URI: http://www.speakpipe.com
 Description: SpeakPipe allows your customers, podcast listeners, blog readers and fans to send you voice messages (voicemail) right from a browser without any phone calls.
 Version: 0.1
