@@ -21,7 +21,6 @@ class SpeakPipe {
 		add_action( 'admin_notices', array( $this, 'speakpipe_notice' ) );
 		add_action( 'wp_footer', array( $this, 'add_footer_script' ) );
 		add_filter( 'plugin_action_links', array( $this, 'options_links' ), 10, 2 );
-
 	}
 
 	function init_settings() {
