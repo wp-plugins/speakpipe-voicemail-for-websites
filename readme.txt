@@ -1,10 +1,10 @@
 === Plugin Name ===
 Contributors: SpeakPipe
 Donate link: http://www.speakpipe.com/
-Tags: voicemail, podcast, feedback, customers, contact, testimonials, comments, messages, communication, voice, widget, sidebar
+Tags: voicemail, podcast, feedback, customers, contact, testimonials, comments, messages, communication, voice, widget, sidebar, audio message, voice call, contact widget
 Requires at least: 3.0.1
-Tested up to: 3.5
-Stable tag: 0.1
+Tested up to: 4.0
+Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,13 +12,7 @@ Allows your customers, blog readers, podcast listeners and fans to send you voic
 
 == Description ==
 
-SpeakPipe makes it easy for your customers to contact you, leave a question or testimonial. With SpeakPipe you can really listen to your customers. 
-It allows your website visitors to send you a voice message using only their browser and microphone directly on your website. It doesn't require any phone calls.
-SpeakPipe is a great tool for building personal relationships with your customers.
-Using SpeakPipe you can receive questions, opinions and testimonials from your customers, and you can set different kinds of contests and promotions.
-There are endless possibilities and it's up to your creativity how you use this method of communication.
-
-SpeakPipe is free for all your users from around the world; say no to expensive international phone calls.
+With SpeakPipe you can receive voice messages from your audience directly on your website. Installing SpeakPipe on a website is easy and takes less than a minute. Visitors don't need a SpeakPipe account to send you voicemail. A message can be sent with just a few clicks without typing anything.
 
 This plugin allows site owners to easily integrate their SpeakPipe code into their Wordpress site without having to change any source code or theme files.
 Please note that all your voice messages and data are stored on speakpipe.com, for more information please see our Privacy Policy at http://www.speakpipe.com/privacy
