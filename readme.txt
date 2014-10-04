@@ -13,6 +13,7 @@ Allows your customers, blog readers, podcast listeners and fans to send you voic
 == Description ==
 
 With SpeakPipe you can receive voice messages from your audience directly on your website. Installing SpeakPipe on a website is easy and takes less than a minute. Visitors don't need a SpeakPipe account to send you voicemail. A message can be sent with just a few clicks without typing anything.
+Learn more at http://www.speakpipe.com/tour
 
 This plugin allows site owners to easily integrate their SpeakPipe code into their Wordpress site without having to change any source code or theme files.
 Please note that all your voice messages and data are stored on speakpipe.com, for more information please see our Privacy Policy at http://www.speakpipe.com/privacy
