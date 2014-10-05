@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: SpeakPipe
 Donate link: http://www.speakpipe.com/
-Tags: voicemail, podcast, feedback, customers, contact, testimonials, comments, messages, communication, voice, widget, sidebar, audio message, voice call, contact widget, voice widget, speakpipe
+Tags: voicemail, podcast, feedback, customers, contact, testimonials, comments, messages, communication, voice, widget, sidebar, audio message, voice call, contact widget, voice widget, speakpipe, podcast feedback, podcast voicemail, writing feedback
 Requires at least: 3.0.1
 Tested up to: 4.0
 Stable tag: trunk
