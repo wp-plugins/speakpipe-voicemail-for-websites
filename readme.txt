@@ -3,7 +3,7 @@ Contributors: SpeakPipe
 Donate link: http://www.speakpipe.com/
 Tags: voicemail, podcast, feedback, customers, contact, testimonials, comments, messages, communication, voice, widget, sidebar, audio message, voice call, contact widget, voice widget, speakpipe, podcast feedback, podcast voicemail, writing feedback
 Requires at least: 3.0.1
-Tested up to: 4.0
+Tested up to: 4.1.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
